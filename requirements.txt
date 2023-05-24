@@ -1,0 +1,8 @@
+pandas
+factor_analyzer
+pingouin
+seaborn
+numpy
+matplotlib
+pca
+scipy
